@@ -3,5 +3,5 @@ Research on cross modal approaches for sound source separation and in frame loca
 
 Baseline Results 
 
-![image](Cross_Modal_Sound_LOC_SEP/baseline_results/combined_pipeline.jpg)
+![image](baseline_results/combined_pipeline.jpg)
 
